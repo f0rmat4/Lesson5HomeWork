@@ -28,7 +28,7 @@ int main() {
 
 }
 
-//so hard to live when you stupid/
+//so hard to live when you stupid
 
 
 
